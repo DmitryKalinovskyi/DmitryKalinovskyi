@@ -4,6 +4,7 @@
 
 ## My competitive programming journey
 [![LeetCode Badge](https://cp-logo.vercel.app/leetcode/deeeperxd?logo=true)](https://leetcode.com/deeeperxd/)
+[![AtCoder Badge](https://cp-logo.vercel.app/atcoder/deeperxd?logo=true)](https://atcoder.jp/users/deeperxd)
 <!--
 **DmitryKalinovskyi/DmitryKalinovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
