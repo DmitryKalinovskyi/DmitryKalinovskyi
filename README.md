@@ -5,7 +5,7 @@
 ## My competitive programming journey
 [![LeetCode Badge](https://cp-logo.vercel.app/leetcode/deeeperxd?logo=true)](https://leetcode.com/deeeperxd/)
 [![AtCoder Badge](https://cp-logo.vercel.app/atcoder/deeperxd?logo=true)](https://atcoder.jp/users/deeperxd)
-[![Eolymp Badge](https://badgen.net/badge/Eolymp/603/green?icon=https://i.postimg.cc/sDRR7Grq/eolymp.png)](https://basecamp.eolymp.com/en/users/deeper)
+[![Eolymp Badge](https://badgen.net/badge/Eolymp/603/green?icon=https://raw.githubusercontent.com/DmitryKalinovskyi/DmitryKalinovskyi/b4b3cc179b43cb9d37dae8b9cba52673d8bd994c/eolymp.svg)](https://basecamp.eolymp.com/en/users/deeper)
 <!--
 **DmitryKalinovskyi/DmitryKalinovskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
